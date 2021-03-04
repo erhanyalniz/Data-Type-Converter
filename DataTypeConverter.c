@@ -1,4 +1,4 @@
-//Erhan Yalnýz  -  150117905  -  HOMEWORK1
+//Erhan YalnÃ½z  
 
 #include <stdio.h>
 #include <stdlib.h>
